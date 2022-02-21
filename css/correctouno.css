@@ -1,0 +1,98 @@
+/*Donde el correcto es arriba a la derecha o la tercera*/
+#correcto {
+    grid-column: 2;
+    grid-row: 4;
+    display: grid;
+}
+#fallouno{
+    grid-column: 1;
+    grid-row: 4;
+    display: grid;
+}
+#fallodos {
+    grid-column: 1;
+    grid-row: 5;
+    display: grid;
+}
+#fallotres {
+    grid-column: 2;
+    grid-row: 5;
+    display: grid;
+}
+img {
+    position: relative;
+    width: 25%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 5px;
+    transition: transform 4s;
+}
+img:hover{
+    transform: rotate(360deg);
+}
+@media screen and (min-width: 320px){
+    #correcto {
+        grid-column: 1;
+        grid-row: 6;
+        display: grid;
+    }
+    #fallouno{
+        grid-column: 1;
+        grid-row: 7;
+        display: grid;
+    }
+    #fallodos {
+        grid-column: 1;
+        grid-row: 5;
+        display: grid;
+    }
+    #fallotres {
+        grid-column: 1;
+        grid-row: 4;
+        display: grid;
+    }
+}
+@media screen and (min-width: 800px){
+    #correcto {
+        grid-column: 2;
+        grid-row: 4;
+        display: grid;
+    }
+    #fallouno{
+        grid-column: 1;
+        grid-row: 4;
+        display: grid;
+    }
+    #fallodos {
+        grid-column: 1;
+        grid-row: 5;
+        display: grid;
+    }
+    #fallotres {
+        grid-column: 2;
+        grid-row: 5;
+        display: grid;
+    }
+}
+@media screen and (min-width: 1024px){
+    #correcto {
+        grid-column: 2;
+        grid-row: 4;
+        display: grid;
+    }
+    #fallouno{
+        grid-column: 1;
+        grid-row: 4;
+        display: grid;
+    }
+    #fallodos {
+        grid-column: 1;
+        grid-row: 5;
+        display: grid;
+    }
+    #fallotres {
+        grid-column: 2;
+        grid-row: 5;
+        display: grid;
+    }
+}

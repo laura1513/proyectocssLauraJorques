@@ -1,0 +1,388 @@
+.odd div {
+    width: 12.5%;
+    height: 12.5%;
+}
+#d1 {
+    background-color: rgb(205, 211, 119);
+    position: absolute;
+    left: 0%;
+    top: 0%;
+}
+#d2 {
+    background-color: rgb(200, 207, 90);
+    position: absolute;
+    left: 12.5%;
+    top: 0%;
+}
+#d3 {
+    background-color: rgb(191, 199, 74);
+    position: absolute;
+    left: 25%;
+    top: 0%;
+}
+#d4 {
+    background-color: rgb(170, 179, 54);
+    position: absolute;
+    left: 37.5%;
+    top: 0%;
+}
+#d5 {
+    background-color: rgb(170, 179, 54);
+    position: absolute;
+    left: 50%;
+    top: 0%;
+}
+#d6 {
+    background-color: rgb(191, 199, 74);
+    position: absolute;
+    left: 62.5%;
+    top: 0%;
+}
+#d7 {
+    background-color: rgb(200, 207, 90);
+    position: absolute;
+    left: 75%;
+    top: 0%;
+}
+#d8 {
+    background-color: rgb(205, 211, 119);
+    position: absolute;
+    left: 87.5%;
+    top: 0%;
+}
+#d9 {
+    background-color: rgb(200, 207, 90);
+    position: absolute;
+    left: 0%;
+    top: 12.5%;
+}
+#d10 {
+    background-color: rgb(191, 199, 74);
+    position: absolute;
+    left: 12.5%;
+    top: 12.5%;
+}
+#d11 {
+    background-color: rgb(170, 179, 54);
+    position: absolute;
+    left: 25%;
+    top: 12.5%;
+}
+#d12 {
+    background-color: purple;
+    position: absolute;
+    left: 37.5%;
+    top: 12.5%;
+}
+#d13 {
+    background-color: purple;
+    position: absolute;
+    left: 50%;
+    top: 12.5%;
+}
+#d14 {
+    background-color: rgb(170, 179, 54);
+    position: absolute;
+    left: 62.5%;
+    top: 12.5%;
+}
+#d15 {
+    background-color:rgb(191, 199, 74);
+    position: absolute;
+    left: 75%;
+    top: 12.5%;
+}
+#d16 {
+    background-color: rgb(200, 207, 90);
+    position: absolute;
+    left: 87.5%;
+    top: 12.5%;
+}
+#d17 {
+    background-color: rgb(191, 199, 74);
+    position: absolute;
+    left: 0%;
+    top: 25%;
+}
+#d18 {
+    background-color: rgb(170, 179, 54);
+    position: absolute;
+    left: 12.5%;
+    top: 25%;
+}
+#d19 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 25%;
+    top: 25%;
+}
+#d20 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 37.5%;
+    top: 25%;
+}
+#d21 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 50%;
+    top: 25%;
+}
+#d22 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 62.5%;
+    top: 25%;
+}
+#d23 {
+    background-color:rgb(170, 179, 54);
+    position: absolute;
+    left: 75%;
+    top: 25%;
+}
+#d24 {
+    background-color: rgb(191, 199, 74);
+    position: absolute;
+    left: 87.5%;
+    top: 25%;
+}
+#d25 {
+    background-color: rgb(170, 179, 54);
+    position: absolute;
+    left: 0%;
+    top: 37.5%;
+}
+#d26 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 12.5%;
+    top: 37.5%;
+}
+#d27 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 25%;
+    top: 37.5%;
+}
+#d28 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 37.5%;
+    top: 37.5%;
+}
+#d29 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 50%;
+    top: 37.5%;
+}
+#d30 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 62.5%;
+    top: 37.5%;
+}
+#d31 {
+    background-color:rgb(248, 212, 157);
+    position: absolute;
+    left: 75%;
+    top: 37.5%;
+}
+#d32 {
+    background-color: rgb(170, 179, 54);
+    position: absolute;
+    left: 87.5%;
+    top: 37.5%;
+}
+#d33 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 0%;
+    top: 50%;
+}
+#d34 {
+    background-color: white;
+    position: absolute;
+    left: 12.5%;
+    top: 50%;
+}
+#d35 {
+    background-color: black;
+    position: absolute;
+    left: 25%;
+    top: 50%;
+}
+#d36 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 37.5%;
+    top: 50%;
+}
+#d37 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+#d38 {
+    background-color: black;
+    position: absolute;
+    left: 62.5%;
+    top: 50%;
+}
+#d39 {
+    background-color:white;
+    position: absolute;
+    left: 75%;
+    top: 50%;
+}
+#d40 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 87.5%;
+    top: 50%;
+}
+#d41 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 0%;
+    top: 62.5%;
+}
+#d42 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 12.5%;
+    top: 62.5%;
+}
+#d43 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 25%;
+    top: 62.5%;
+}
+#d44 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 37.5%;
+    top: 62.5%;
+}
+#d45 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 50%;
+    top: 62.5%;
+}
+#d46 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 62.5%;
+    top: 62.5%;
+}
+#d47 {
+    background-color:rgb(248, 212, 157);
+    position: absolute;
+    left: 75%;
+    top: 62.5%;
+}
+#d48 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 87.5%;
+    top: 62.5%;
+}
+#d49 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 0%;
+    top: 75%;
+}
+#d50 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 12.5%;
+    top: 75%;
+}
+#d51 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 25%;
+    top: 75%;
+}
+#d52 {
+    background-color: rgb(235, 195, 135);
+    position: absolute;
+    left: 37.5%;
+    top: 75%;
+}
+#d53 {
+    background-color: rgb(235, 195, 135);
+    position: absolute;
+    left: 50%;
+    top: 75%;
+}
+#d54 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 62.5%;
+    top: 75%;
+}
+#d55 {
+    background-color:rgb(248, 212, 157);
+    position: absolute;
+    left: 75%;
+    top: 75%;
+}
+#d56 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 87.5%;
+    top: 75%;
+}
+#d57 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 0%;
+    top: 87.5%;
+}
+#d58 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 12.5%;
+    top: 87.5%;
+}
+#d59 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 25%;
+    top: 87.5%;
+}
+#d60 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 37.5%;
+    top: 87.5%;
+}
+#d61 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 50%;
+    top: 87.5%;
+}
+#d62 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 62.5%;
+    top: 87.5%;
+}
+#d63 {
+    background-color:rgb(248, 212, 157);
+    position: absolute;
+    left: 75%;
+    top: 87.5%;
+}
+#d64 {
+    background-color: rgb(248, 212, 157);
+    position: absolute;
+    left: 87.5%;
+    top: 87.5%;
+}
